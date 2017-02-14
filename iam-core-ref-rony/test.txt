@@ -1,0 +1,6 @@
+---------IDENTITY:BEGIN-------
+new6
+one6
+
+1998-02-20
+---------IDENTITY:END---------
